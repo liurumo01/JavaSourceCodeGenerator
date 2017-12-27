@@ -1,0 +1,46 @@
+* {
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+}
+
+body {
+	background-color: #ffffff;
+}
+
+h1 {
+	/* font-family: 宋体; */
+	font-size: 15px;
+	font-weight: normal;
+}
+
+a {
+	color: #0000FF;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+ul.menu {
+	display: block;
+}
+
+ul.menu li {
+	list-style: none;
+	float: left;
+	color: #0000FF;
+	cursor: pointer;
+}
+
+ul.menu#menu_child {
+	padding-left: 40px;
+}
+
+table.grid {
+	border-collapse: collapse;
+	border: none;
+}
+
+table.grid td {
+	border: solid #000 1px;
+	padding: 10px;
+}

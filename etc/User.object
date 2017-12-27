@@ -1,0 +1,5 @@
+Long id
+String username
+String password
+Date birthday
+Date registerTime
